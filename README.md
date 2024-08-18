@@ -50,6 +50,3 @@ The notebook contains the following sections:
 4. Exploratory Data Analysis: Analyzing the data to find patterns and insights.
 5. Modeling: Building and evaluating predictive models using the logistic regression method
 6. Conclusion: Summarizing the findings and insights.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
